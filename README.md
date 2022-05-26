@@ -2,7 +2,7 @@
 - 😄 Estou cursando o 3º ano de Engenharia de Software :) <br>
 - :heart_eyes: E tou fazendo estágio em programação Web Java! <br>
 - 🔭 Recentemente fui selecionada para participar do programa Tranforme-se: Uma parceria Digital House e Serasa. <br>
-- 🌱 Tenho focado meus estudos atualmente na linguagem <strong>Java</strong>, mas tenho uma quedinha por <strong>Javascript</strong> e <strong>Python</strong>.
+- 🌱 Tenho focado meus estudos atualmente na linguagem <strong>Java</strong>.
 
 ## 
 
