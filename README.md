@@ -1,5 +1,5 @@
 ## Oie! Meu nome é Dayane Leal 👋
-- 😄 Estou cursando o 3º ano de Engenharia de Software :) <br>
+- 😄 Estou cursando o 4º ano de Engenharia de Software :) <br>
 - :heart_eyes: Faço estágio na empresa XP desde Ago/22 <br>
 - 🔭 Recentemente fui selecionada para participar do programa Tranforme-se: Uma parceria Digital House e Serasa. <br>
 - 🌱 Tenho focado meus estudos atualmente em <strong>.NET</strong>.
