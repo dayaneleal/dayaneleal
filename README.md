@@ -1,8 +1,7 @@
 ## Oie! Meu nome é Dayane Leal 👋
-- 😄 Estou cursando o 4º ano de Engenharia de Software :) <br>
-- :heart_eyes: Faço estágio na empresa XP desde Ago/22 <br>
-- 🔭 Recentemente fui selecionada para participar do programa Tranforme-se: Uma parceria Digital House e Serasa. <br>
-- 🌱 Tenho focado meus estudos atualmente em <strong>.NET</strong>.
+- 😄 sou desenvolvedora Mobile desde 2022 <br>
+- :heart_eyes: Atualmente trabalho com Flutter, mas Android nativo tem um lugarzinho no meu coração <br>
+- 🌱 Curso uma pós graduação na UTFPR em desenvolvimento mobile desde set/2025.
 
 ## 
 
